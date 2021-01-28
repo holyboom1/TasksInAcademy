@@ -1,0 +1,24 @@
+[
+  {
+    "url" : "/asdas",
+    "title" : "sub",
+    "status" : true,
+    "sub" : [
+      {
+        "url" : "/asdas",
+        "title" : "child-1",
+        "status" : true
+      },
+      {
+        "url" : "/asdas",
+        "title" : "child-2",
+        "status" : true
+      }
+    ]
+  },
+  {
+    "url" : "/non-sub",
+    "title" : "non-sub",
+    "status" : true
+  }
+]

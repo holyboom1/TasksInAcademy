@@ -1,0 +1,65 @@
+body{
+    background-image: url("http://t2.gstatic.com/images?q=tbn:ANd9GcSwhgJ217xZ4WN525TyLX7vwzaVVaTcg22Efhz_XLQGhpFOPcwElQ8bbs2BLExFiEsHR-zA0-HJ0EWA5PBHT28");
+    background-size: 100px ;
+    background-repeat: no-repeat;
+}
+.main
+{
+    width: 430px;
+    height: 430px;
+text-align: center;
+    color: white;
+    font-size: 20pt;
+
+
+}
+
+.one    {
+    background-image: linear-gradient(to top, cornflowerblue, cyan);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    cursor: context-menu;
+
+
+}
+.two    {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to top,indianred, coral);
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+.three  {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to top, green, chartreuse);
+    border-radius: 20px;
+
+}
+.four   {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(to top, orange, yellow);
+    border-radius: 20px;
+
+}
+#winter {
+    cursor: crosshair;
+}
+#spring {
+    cursor: pointer;
+}
+
+#summer {
+    cursor: wait;
+}
+#fall   {
+    cursor: progress;
+}
+

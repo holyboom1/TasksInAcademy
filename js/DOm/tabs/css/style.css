@@ -1,0 +1,41 @@
+.table {
+
+}
+
+.tabs {
+	
+}
+
+.tabs  ul{
+	list-style:none;
+	display:flex;
+	width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.tabs  ul li{
+	list-style:none;
+	display:flex;
+	align-items:center;
+	padding:10px;
+	border:1px solid #ccc;
+}
+
+.tabs  ul li.active {
+	background:#ccc;
+	border-bottom:1px solid #fff;
+}
+
+.tabs .tabs_info >div {
+	display:none;
+	border:1px solid #ccc;
+	margin-top:-1px;
+}
+
+
+.tabs .tabs_info >div.active {
+	display:block;
+}
+
+

@@ -1,0 +1,231 @@
+.main{
+    width: 960px;
+    height: 640px;
+    background-image: url("1.jpg") ;
+
+}
+.sun {
+    width: 100px;
+    height: 100px;
+    background-image: url("4.png");
+
+    animation: sun 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes sun {
+    from {
+        transform: translate(0px, 0px);
+
+    }
+    5%
+    {
+        transform: translate(15px, 0px);
+    }
+    10%
+    {
+        transform: translate(30px, 5px);
+    }
+    15%
+    {
+        transform: translate(45px, 15px);
+    }
+    20%
+    {
+        transform: translate(60px, 20px);
+    }
+    25%
+    {
+        transform: translate(75px, 25px);
+    }
+    30%
+    {
+        transform: translate(90px, 30px);
+    }
+    35%
+    {
+        transform: translate(105px, 40px);
+    }
+    40%
+    {
+        transform: translate(120px, 50px);
+    }
+    45%
+    {
+        transform: translate(135px, 60px);
+    }
+    50%
+    {
+        transform: translate(145px, 70px);
+    }
+    55%
+    {
+        transform: translate(165px, 90px);
+    }
+    60%
+    {
+        transform: translate(170px, 110px);
+    }
+    65%
+    {
+        transform: translate(175px, 120px);
+    }
+    70%
+    {
+        transform: translate(180px, 130px);
+    }
+    75%
+    {
+        transform: translate(185px, 145px);
+    }
+    80%
+    {
+        transform: translate(190px, 160px);
+        opacity: 0.9;
+    }
+    85%
+    {
+        transform: translate(195px, 175px);
+        opacity: 0.6;
+    }
+    90%
+    {
+        transform: translate(200px, 190px);
+        opacity: 0.4;
+    }
+    95%
+    {
+        transform: translate(205px, 205px);
+        opacity: 0.2;
+
+    }
+
+to {
+        transform: translate(210px, 225px);
+    opacity: 0;
+
+    }
+}
+.obl
+{
+    width: 200px;
+    height: 100px;
+    background-image: url("3.png");
+    animation: obl 2s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes obl {
+
+    from {
+        transform: translate(0px, 0px);
+
+    }
+    5% {
+        transform: translate(30px, 20px);
+    }
+    10% {
+        transform: translate(60px, 0px);
+    }
+    15% {
+        transform: translate(90px, 20px);
+    }
+    20% {
+        transform: translate(120px, 0px);
+    }
+    25% {
+        transform: translate(150px, 10px);
+    }
+    30% {
+        transform: translate(180px, 0px);
+    }
+    35% {
+        transform: translate(210px, 15px);
+    }
+    40% {
+        transform: translate(240px, 0px);
+    }
+    45% {
+        transform: translate(270px, 10px);
+    }
+    50% {
+        transform: translate(300px, 0px);
+    }
+    55% {
+        transform: translate(330px, 20px);
+    }
+    60% {
+        transform: translate(360px, 25px);
+    }
+    65% {
+        transform: translate(390px, 35px);
+    }
+    70% {
+        transform: translate(420px, 10px);
+    }
+    75% {
+        transform: translate(450px, 0px);
+    }
+    80% {
+        transform: translate(480px, 15px);
+
+    }
+    85% {
+        transform: translate(510px, 0px);
+
+    }
+    90% {
+        transform: translate(540px, 35px);
+
+    }
+    95% {
+        transform: translate(570px, 0px);
+
+
+    }
+
+    to {
+        transform: translate(600px, 15px);
+    }
+}
+
+.leto
+{
+    color: brown;
+    font-size: 60pt;
+transform: translate(320px);
+    animation: leto 1s;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+    opacity: 0;
+}
+
+@keyframes leto {
+    from {
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.end
+{
+    color: red;
+    font-size: 100pt;
+    transform: translate(100px);
+    animation: end 1s;
+    animation-delay: 10s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    text-align: center;
+
+}
+
+@keyframes end {
+    from{
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

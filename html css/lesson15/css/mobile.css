@@ -1,0 +1,16 @@
+@media all and (min-width:320px) and (max-width:640px) {
+	.item {
+		margin-bottom:20px;
+	}
+	
+	.slider_image > div:nth-child(2n){
+		order:0;
+	}
+	
+	.slider_image > div:nth-child(2n-1){
+		order:1;
+	}
+}
+
+
+

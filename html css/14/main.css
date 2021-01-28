@@ -1,0 +1,67 @@
+.main
+{
+    width: 500px;
+    height: 400px;
+    background-color: antiquewhite;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.f1 {
+    width: 45%;
+
+    padding: 20px;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: stretch;
+
+}
+
+.f2 {
+    width: 25%;
+    padding: 20px;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+
+}
+
+.f11 {
+    background-color: chartreuse;
+    border: 5px solid #008000;
+    height: 40%;
+
+
+
+
+}
+.f12 {
+    background-color: chartreuse;
+    border: 5px solid #008000;
+    height: 40%;
+
+
+
+
+}
+.f21 {
+    background-color: chartreuse;
+    border: 5px solid #008000;
+    height: 25%;
+}
+.f22 {
+    background-color: chartreuse;
+    border: 5px solid #008000;
+    height: 25%;
+}
+.f23 {
+    background-color: chartreuse;
+    border: 5px solid #008000;
+    height: 25%;
+}

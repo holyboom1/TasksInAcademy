@@ -1,0 +1,29 @@
+#one {
+    float: left;
+    width: 40%;
+    border: 2px solid black;
+    margin-right: 10px;
+
+}
+#two {
+    padding-top:  25px;
+    float: left;
+    width: 50%;
+    border: 2px solid black;
+    margin-right: 10px;
+
+}
+body{
+    background-color: darkslategray;
+}
+#add {
+    margin-left: 40%;
+    padding: 10px;
+}
+img {
+    width: 20px;
+
+}
+ul {
+    list-style-type:none;
+}

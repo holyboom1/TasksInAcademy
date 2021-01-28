@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+}
+.mainpage{
+    width: 80%;
+    margin: 0 auto;
+
+}
+.block1 {
+    width: 100%;
+    height: 323px;
+    background-color: rgb(68,81,98);
+    display: flex;
+    color: white;
+}
+.block1-1 {
+    width: 50%;
+
+}
+.block1-1text{
+    margin-top: 30px;
+    margin-left: 3.9%;
+
+}
+div .block1-1text h1
+{
+    font-size:4vw;
+
+}
+
+
+.block1-2 {
+    width: 50%;
+
+}
+.empty{
+    background-color: white;
+    width: 73.4%;
+    height: 213px;
+    margin-right: 3.9%;
+    margin-top: 50px;
+    float: right;
+
+}
+ul {
+    list-style-image: url("../img/check.PNG") ;
+
+
+
+}
+li {font-size: 1.5vw;}
+
+.block2 {
+    width: 100%;
+    height: 345px;
+    background-color: white;
+    display: flex;
+
+}
+.block2-1 {
+    width: 55%;
+
+}
+.block2-1text{
+    margin-top: 30px;
+    margin-left: 3.9%;
+}
+
+div .block2-1text h1 {
+    font-size: 2vw;
+}
+div .block2-1text p{
+    font-size: 1.2vw;
+    text-wrap: normal;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.block2-2 {
+    width: 45%;
+
+}
+.empty1{
+
+    width: 67.2%;
+    height: 213px;
+    margin-right: 3.9%;
+    margin-top: 50px;
+    float: right;
+    background-color: rgb(68,81,98);}
+

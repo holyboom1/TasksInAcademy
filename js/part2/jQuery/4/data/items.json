@@ -1,0 +1,27 @@
+[
+	{
+		"title":"item 1",
+		"preview":"preview 1",
+		"price":300
+	},
+	{
+		"title":"item 2",
+		"preview":"preview 2",
+		"price":200
+	},
+	{
+		"title":"item 3",
+		"preview":"preview 3",
+		"price":500
+	},
+	{
+		"title":"item 4",
+		"preview":"preview 4",
+		"price":5000
+	},
+	{
+		"title":"item 5",
+		"preview":"preview 5",
+		"price":180
+	}
+]

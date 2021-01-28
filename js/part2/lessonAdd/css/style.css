@@ -1,0 +1,29 @@
+body{
+    background-color: cornflowerblue;
+}
+.button{
+    background-color: darkgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+div {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+table {
+    margin-top: 50px;
+    margin-left: 20px;
+
+
+}
+td{
+    border: 2px solid black;
+
+}
+tfoot {
+    background-color: green;
+}
+
+

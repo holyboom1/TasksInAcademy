@@ -1,0 +1,27 @@
+.tabs {
+	width: 50%;
+	display: flex;
+	flex-wrap: wrap;
+	flex-flow: column-reverse;
+
+
+}
+.tab div {
+	display: none;
+}
+.tab{
+	background-color: burlywood;
+	border: 2px solid darkgreen;
+	flex: 1 0 100%;
+	text-align: center;
+}
+
+.tab div.active {
+	display: block;
+	background-color: aliceblue;
+}
+
+.block_active {
+	background-color: gray;
+
+}

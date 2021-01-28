@@ -1,0 +1,21 @@
+body {
+	background: #e6e6e6;
+    /* margin: 20px; */
+    color: #422222;
+}
+
+
+.base {
+    font-size: 30px;
+    color: #000;
+}
+
+.base_red {
+    font-size: 30px;
+    color: red;
+}
+
+
+.color_red {
+	color:red;
+}

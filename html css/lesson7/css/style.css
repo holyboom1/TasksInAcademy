@@ -1,0 +1,38 @@
+body {
+
+}
+
+.container {
+	width:960px;
+	margin:0px auto;
+}
+
+.header {
+	width:100%;
+	min-height:75px;
+	padding-top:15px;
+	background:#ccc;
+}
+
+.logo {
+	width:218px;
+	min-height:58px;
+	background:#ff0;
+	float:left;
+}
+
+
+.menu {
+	width:540px;
+	min-height:58px;
+	background:#ff0;
+	float:right;
+}
+
+.banner {
+	width:934px;
+	padding:20px 13px;
+	min-height:460px;
+	background:#ff0;
+	
+}

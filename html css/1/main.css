@@ -1,0 +1,53 @@
+a:link {
+    color: coral;
+}
+
+a:visited {
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: crimson;
+}
+
+li:first-child {
+    color: cyan;
+}
+
+li:last-child {
+    color: darkmagenta;
+}
+
+li:nth-child(2) {
+    background-color: darksalmon;
+}
+
+li {
+    background-color: gold;
+}
+
+li:nth-child(2n) {
+    color: dodgerblue;
+    background-color: firebrick;
+}
+
+p::selection {
+    background-color: green;
+}
+
+p::first-letter {
+    font-size: 30pt;
+    color: green;
+}
+
+p::before {
+    content: "начало";
+}
+
+p::after {
+    content: "конец";
+}
+
+div {
+    width: 50%;
+}

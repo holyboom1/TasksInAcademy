@@ -1,0 +1,82 @@
+@import "fonts.css";
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size:20px;
+}
+
+.container {
+	width:960px;
+	margin:0px auto;
+}
+
+.header {
+	width:100%;
+	min-height:91px;
+	padding-top:15px;
+	background:url(../images/bg.jpg) repeat-x;
+}
+
+.logo {
+	width:218px;
+	min-height:58px;
+	float:left;
+}
+
+
+.menu {
+	width:540px;
+	min-height:58px;
+	float:right;
+}
+.menu ul {
+	list-style:none;
+	padding:0px;
+	margin:15px 0 0 0;
+	float:right;
+}
+
+.menu ul li{
+	color:#000;
+	float:left;
+	margin:0px 0px 0px 20px;
+}
+
+.menu ul li a{
+	color:#000;
+	text-decoration:none;
+}
+
+
+.banner {
+	width:934px;
+	padding:20px 13px;
+	min-height:460px;
+	background:#ff0;
+	font-family: "Ubuntu";
+	
+}
+
+.banner_nav p {
+	line-height: 50px;
+	text-align:center;
+}
+
+.banner_nav p span{
+	text-decoration:underline;
+	font-weight:600;
+	font-style:italic;
+	background:#fff;
+	padding:5px;
+	color:red;
+	letter-spacing:20px;
+}
+
+.h3 {
+	font-family: "Ubuntu";
+	color:#fff;
+	font-weight:400;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 3px rgba(0,0,0,0.8), -2px -2px 3px rgba(255,0,0,0.8);
+	
+}

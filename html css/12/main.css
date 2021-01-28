@@ -1,0 +1,111 @@
+#frame
+{
+    width:1000px;
+    background-image:url("img/background.jpg");
+    margin:0 auto;
+    display: table;
+}
+header
+{
+    width:90%;
+    height:50px;/*высота*/
+    background-image:url("img/11.jpg");
+    background-size: cover;
+    margin:0 auto;
+    margin-top:10px;
+    padding:10px;
+    text-align:center;
+    font-size:40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+/* меню*/
+nav
+{
+    height:30px;
+    margin:10px;
+    color:Black;
+    font-size:20px;
+    font-family:Arial;
+
+}
+li a
+{
+    text-decoration:none;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+#main
+{
+    margin:0px;
+    padding:0px;
+}
+#main li
+{ list-style: none;
+    display:inline-block;
+    position:relative;
+}
+#main li menu
+{
+    position:absolute;
+    background-color:green;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin:0px;
+}
+li menu
+{
+    display: none;
+}
+
+#main li:hover menu{
+    display: block;
+}
+main
+{
+    height:400px;
+    width:65%;
+    background-color:green;
+    margin:10px;
+    float:left;
+    padding:10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+aside
+{
+    background-color:green;
+    width:25%;
+    height:400px;
+    margin:10px;
+    float:right;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+article
+{
+    font-family:Arial;
+    font-size:14pt;
+}
+footer
+{
+    display: block;
+    clear: right;
+    width:90%;
+    height:50px;
+    background-image: url("img/11.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    padding:20px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+

@@ -1,0 +1,59 @@
+.table {
+
+}
+
+.tabs {
+	
+}
+
+.gallery  ul{
+	list-style:none;
+	display:flex;
+	width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.gallery .main {
+	width:650px;
+	position:relative;
+}
+.gallery .main img{
+	width:100%;
+}
+
+.gallery .main >div{
+	position:absolute;
+	top:20px;
+	left:0px;
+	background:rgba(0,0,0,0.3);
+	padding:10px;
+	color:#fff;
+}
+
+.gallery  ul li{
+	list-style:none;
+	display:flex;
+	flex: 0 0 200px;
+
+	align-items:center;
+	padding:10px;
+	border:1px solid #ccc;
+}
+
+.gallery  ul li img {
+	width:100%;
+}
+
+.gallery  ul li img.active {
+	width:100%;
+	border:2px solid #f00;
+}
+
+.gallery  ul li.active {
+	
+	border:1px solid #f00;
+}
+
+
+

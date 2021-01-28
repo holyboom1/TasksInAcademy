@@ -1,0 +1,10 @@
+li {
+    width: 100px;
+    border: 2px solid red;
+    margin: 10px;
+}
+
+li:last-child {
+    width: 100px;
+    border: 2px solid blue;
+}

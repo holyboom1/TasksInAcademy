@@ -1,0 +1,29 @@
+.button{
+    background-color: darkgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+div {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+li .active {
+    border: 3px solid red;
+}
+li {
+    width: max-content;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 10px;
+}
+img{
+    width: 15px;
+    height: 15px;
+}
+.active{
+    border-color: red;
+}
+

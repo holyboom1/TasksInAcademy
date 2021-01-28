@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7427bfb-dbc3-4434-99bc-77d957471622" name="Default Changelist" comment="move from other repo">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/10/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/10/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/1/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/2/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/11/2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/img/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/12/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/fonts/1.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/13/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/14/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/boot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/css/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/block1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/kypit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/less/test.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b — копия/vikup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/block1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/kypit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/15 end v0.1b/vikup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/img/check.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/16/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/4.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Forma 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Forma 2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Forma 3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Forma 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 64.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 65 .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 69 .PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 77.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 82.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/Layer 83.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/body.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/dribbble.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/ellipse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/facebook.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/img/twitter.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/4/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/go.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/go1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/5/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/6/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/7/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/8/8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/8/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/9/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/css/desktop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/bootstrap-3.3.7-dist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/desktop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/bootstrap-3.3.7-dist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/desktop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/bootstrap-3.3.7-dist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/desktop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson15/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson3/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/page_css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/page_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson4/page_js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson5/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson5/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson5/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson6/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson6/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson6/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson6/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson6/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson7/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson7/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson7/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson7/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson7/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/Ubuntu.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/isadorac.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/Ubuntu-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/fonts/ubuntu/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/images/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/images/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/lesson9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/task/HTML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/task/MainFile.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/task/corporatix.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html css/task/taskForm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1.hw/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1.hw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1.hw/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1.hw/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2.1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson2/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/lesson3/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/tabs/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/tabs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/tabs/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DOm/tabs/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.0/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.0/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.0/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom01/lesson1.1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (100).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (101).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (102).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (103).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (104).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (105).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (106).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (107).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (108).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (109).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (110).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (111).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (12).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (13).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (14).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (16).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (17).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (19).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (21).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (22).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (23).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (24).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (25).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (26).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (27).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (28).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (29).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (30).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (31).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (32).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (33).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (34).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (35).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (36).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (37).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (38).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (39).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (40).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (41).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (42).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (43).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (44).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (45).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (46).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (47).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (48).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (49).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (50).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (51).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (52).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (53).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (54).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (55).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (56).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (57).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (58).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (59).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (60).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (61).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (62).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (63).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (64).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (65).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (66).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (67).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (68).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (69).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (70).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (71).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (72).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (73).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (74).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (75).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (76).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (77).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (78).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (79).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (80).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (81).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (82).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (83).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (84).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (85).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (86).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (87).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (88).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (89).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (90).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (91).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (92).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (93).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (94).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (95).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (96).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (97).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (98).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/images/img (99).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/img/lastimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/img/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/gallery/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/palindrom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/holliday_work/palindrom/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/jquery-ui-1.12.1.custom.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/js/jquery.flexslider-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jq/jqui/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson4/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson4/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson4_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson4_1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson4_1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson5/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson5/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson5_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson5_1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson5_1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6_1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6_1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6_2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson6_2/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson7/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson7/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson8/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson8/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson8_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson8_1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/lessons_in _academy/lesson8_1/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/1/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/10/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/10/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/11/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/11/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/12/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/12/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/13/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/13/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/14/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/14/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/14/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/2.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/2.1/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/2.3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/2.3/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/2/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/3/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/4/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/5/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/6/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/7/jscript/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/9/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part 1/9/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/css/modalCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/img/lastimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/img/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/js/modalWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/GoTo whis cookies/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/accordion/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/accordion/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/accordion/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/accordion/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/ajax pt1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/ajax pt1/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/ajax pt1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/ajax pt1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/class/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/class/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/class_CW/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/class_CW/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/class_CW/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/cookie-date/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/cookie-date/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/cookie-date/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/cookie-date/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/cookie-date/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/cookie-date/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/date/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/date/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/date/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/date1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/date1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/date1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/exm/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/exm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/exm/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/fileAdd/css/modalCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/fileAdd/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/fileAdd/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/fileAdd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/fileAdd/js/modalWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/fileAdd/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/form/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/form/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/form_2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/form_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/form_2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/gallery/js/script.js.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/1/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/1/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/2/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/2/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/fancybox-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/img/2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/img/3.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/img/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/js/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/img/2.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/img/3.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/img/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/jquery-ui-1.12.1.custom.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/js/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/js/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/jQuery/4/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonAdd/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonAdd/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonAdd/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonAdd/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonEvent/js/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonN/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonN/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/lessonN/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/css/modalCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/img/lastimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/img/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/js/modalWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/listADD/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localStorage/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localStorage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localStorage/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/locale/localhost/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localhost1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localhost1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localhost1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localhost1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localhost1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/localhost1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/promise1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/regexp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/regexp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/regexp/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/regexp1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/regexp1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/regexp1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/data/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/part2/xhr/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/components/menu/data/header.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/components/menu/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/components/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/components/sections/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/modules/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/modules/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/1/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/json/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/2-state/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/json/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/json/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/3-removeItems_1/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/components/parts/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/json/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/components/parts/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/json/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/4-homework_1/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/404/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/parts/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/posts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/posts/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/posts/itemInside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/users/forms/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/components/users/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/form/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/menu/data/aside.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/menu/data/aside_test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/menu/data/header.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/menu/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/modules/textModule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/sections/aside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/sections/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/components/sections/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/modules/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/modules/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/in itstep/05.11/1_home/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/action/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/404/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/comments/message/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/parts/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/posts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/posts/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/posts/itemInside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/users/forms/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/components/users/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/reducers/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/reducers/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/src/reducers/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/modal/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/AppParts/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/ContentParts/HomeContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/ContentParts/PostsContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/ContentParts/catalog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/HeaderParts/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/HeaderParts/menuUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/Components/reducers/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/myApp/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/action/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/404/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/comments/message/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/parts/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/posts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/posts/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/posts/itemInside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/users/forms/create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/components/users/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/reducers/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/src/reducers/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/propTypes/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/dist/main.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/list/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/parts/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/posts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/posts/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/posts/itemInside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/components/users/userItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/router/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/dist/css/style.css.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/src/modules/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/src/modules/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/1/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/images/963da38e33fe5dcc1c94782718e81ca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/js/bbb150a37abe22a69b4dce835c5bb97e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/content/ContentText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/content/sliderContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/menu/data/catalog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/menu/data/header.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/menu/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/CatalogMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/menunav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/sectionsParts/Copyright.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/sectionsParts/InfoText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/sectionsParts/logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/components/sections/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/modules/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/modules/user/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/includes/meta.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/layouts/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/mixins/item.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/mixins/list.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/pages/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/src/pug/pages/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/2/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/события.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nbiAmHLtGlFyER2ggZB1XCPIkx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7427bfb-dbc3-4434-99bc-77d957471622" name="Default Changelist" comment="" />
+      <created>1611665050188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611665050188</updated>
+      <workItem from="1611665051358" duration="812000" />
+      <workItem from="1611696794832" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="move from other repo">
+      <created>1611665176118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611665176118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="move from other repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="move from other repo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="288" key="Vcs.Push.Dialog.v2" timestamp="1611665266056">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="288" key="Vcs.Push.Dialog.v2/0.30.1920.1050/-1920.0.1920.1050/1920.49.1280.994@0.30.1920.1050" timestamp="1611665266056" />
+    <state x="786" y="289" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1611665163825">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="786" y="289" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.30.1920.1050/-1920.0.1920.1050/1920.49.1280.994@0.30.1920.1050" timestamp="1611665163825" />
+  </component>
+</project>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+
+
+    <form name="reg">
+        <table>
+            <tr>
+                <td>
+                    <label for="username">Имя</label>
+                </td>
+                <td>
+                    <input type="text" name="username" id="username" data-name="Имя пользователя" required />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="pass">Пароль</label>
+                </td>
+                <td>
+                    <input type="password" name="pass" id="data-name=" Пароль пользователя" required/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="about">О себе</label>
+                </td>
+                <td>
+                    <textarea name="abasdasout" id="about"  data-name="О пользователе" required></textarea>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="city">Город</label>
+                </td>
+                <td>
+                    <input type="text" name="asdasd1" id="city"  data-name="Город" required />
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    <select name="color">
+                        <option value="#ccc">1</option>
+                        <option value="#ddd">2</option>
+                        <option value="#000">3</option>
+
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    <input type="file"  multiple />
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    <input type="submit" id="send" value="Отправить"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script src="js/script.js"></script>
+
+</body>
+</html>

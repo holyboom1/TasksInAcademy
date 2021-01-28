@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/jquery.fancybox.min.css" rel="stylesheet"/>
+    <link href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+	
+	<div class="gallery">
+		<ul>
+			<li><a data-fancybox="gallery" data-caption="Caption for single image22" href="img/1.jpg"><img src="img/1.jpg"></a></li>
+			<li><a data-fancybox="gallery" data-caption="Caption for single image11" href="img/2.jfif"><img src="img/2.jfif"></a></li>
+			<li><a data-fancybox="gallery" data-caption="Caption for single image33" href="img/3.jfif"><img src="img/3.jfif"></a></li>
+			<li><a data-fancybox="gallery" data-caption="Caption for single image44" href="img/4.webp"><img src="img/4.webp"></a></li>
+			
+			
+			<a data-fancybox href="https://www.youtube.com/watch?v=_sI_Ps7JSEk">
+    YouTube video
+</a>
+	<a data-fancybox data-src="#hidden-content" href="javascript:;">
+	Trigger the fancybox
+</a>
+		</ul>
+	</div>
+    
+	<div style="display: none;" id="hidden-content">
+		<h2>Hello</h2>
+		<p>You are awesome.</p>
+	</div>
+    <script src="js/jquery-3.5.1.js"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

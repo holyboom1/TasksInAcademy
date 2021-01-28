@@ -1,0 +1,36 @@
+.table {
+
+}
+
+.tabs {
+	
+}
+
+.accordion {
+	padding:0px;
+	margin:0px;
+}
+
+.accordion dt {
+	padding:10px;
+	border:1px solid #ccc;
+	cursor:pointer;
+}
+
+.accordion dt.active {
+	background:#aafbff;
+}
+
+.accordion dd {
+	padding:10px;
+	border:1px solid #ccc;
+	margin:0px;
+	background:#f0f0f0;
+	display:none;
+}
+
+.accordion dd.active {
+	display:block;
+}
+
+

@@ -1,0 +1,35 @@
+
+li{
+    display: inline;
+    text-decoration: none;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -5px;
+
+}
+li {background-color: yellow;
+color: red;
+}
+li:first-child {
+    background-color: aqua;
+}
+li:last-child{
+    background-color: cadetblue;
+    color: blue;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:visited{
+    background-color: brown;
+}
+
+a:hover {
+    text-decoration: line-through;
+}
+
+a:active{
+    background-color: black;
+}

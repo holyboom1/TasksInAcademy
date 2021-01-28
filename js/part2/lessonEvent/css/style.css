@@ -1,0 +1,22 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.circle {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.box {
+    width: 35px;
+    height: 35px;
+    border:2px solid #ccc;
+    position: absolute;
+    top:0px;
+}

@@ -1,0 +1,41 @@
+td{
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.d{
+    background-color: darkgray;
+}
+
+#tfoot td{
+    background-color: chocolate;
+    color: blanchedalmond;
+}
+
+.form-error {
+    outline: 2px solid #f00;
+}
+
+.error-text {
+    color: #f00;
+}
+
+.current {
+	color:red;
+}
+
+.content {
+	width:500px;
+	padding:20px;
+	box-sizing:border-box;
+	border:1px solid #ccc;
+	display:none;
+	
+}
+
+#draggable {
+	width:300px;
+	height:300px;
+	border:1px solid #ccc;
+	
+}

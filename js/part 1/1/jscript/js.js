@@ -1,0 +1,18 @@
+'use strict';
+var x = prompt("Число 1", 1);
+var y = prompt("Число 2", 2);
+var z = prompt("Число 5", 3);
+var sum = +x + +y + +z;
+var sa = sum / 3;
+var sumStr = x + "+" + y + "+" + z + "=" + sum;
+var kv1 = x * x;
+var kv2 = y * y;
+var kv3 = z * z;
+console.log("Число 1=" + x);
+console.log("Число 2=" + y);
+console.log("Число 5=" + z);
+console.log("summa =" + sumStr);
+console.log("sredaref=" + sa);
+console.log("kvadrat 1=" + kv1);
+console.log("kvadrat 2=" + kv2);
+console.log("kvadrat 5=" + kv3);

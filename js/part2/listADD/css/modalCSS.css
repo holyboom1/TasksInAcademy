@@ -1,0 +1,43 @@
+#modalWindow{
+    position: absolute;
+    width: 70%;
+    left: auto ;
+    top: auto ;
+    border: 3px solid black;
+    height: auto;
+    z-index: 1;
+    background-color: #cccccc;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+
+
+}
+#modalWindow > div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-end;
+    align-content: center;
+}
+
+.modalWindowButton{
+    background-color: darkgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    max-width: max-content;
+
+}
+
+
+.show_modal_window {
+    display: none;
+}
+#modalInText{
+    text-align: center;
+}

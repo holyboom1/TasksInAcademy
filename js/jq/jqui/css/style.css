@@ -1,0 +1,10 @@
+.hide {
+  display: none;
+  border: 1px solid red;
+  width: 500px;
+}
+
+ul li.active {
+  background: #000;
+  color: #fff;
+}

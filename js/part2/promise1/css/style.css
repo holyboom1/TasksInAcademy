@@ -1,0 +1,30 @@
+.blockOfWheather{
+    margin: 5px;
+    border: 2px solid black;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: space-between;
+}
+dt dd {
+    padding:5px;
+    border:1px solid #ccc;
+    margin:0px;
+    display:none;
+}
+
+dt {
+    border: 2px solid black;
+}
+
+.active {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}

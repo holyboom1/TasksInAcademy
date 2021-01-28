@@ -1,0 +1,372 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #111111;
+}
+
+header {
+    background-color: #111111;
+    width: 100%;
+    height: 790px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#namec {
+    color: #ffffff;
+    font-size: 24pt;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    padding-left: 12%;
+    padding-top: 75px;
+    float: left;
+}
+
+menu {
+
+    padding-top: 71px;
+    padding-left: 52%;
+
+}
+
+.menu {
+
+    font-family: 'Dancing Script', cursive;
+    display: inline-block;
+    color: #ffffff;
+    list-style: none;
+    padding-left: 40px;
+    font-size: 14pt;
+}
+
+.wellcome {
+    text-align: center;
+    color: #787878;
+    font-size: 30pt;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 210px;
+
+}
+
+
+.myco {
+    font-weight: bold;
+    color: #eaaa57;
+}
+
+.textmain {
+    font-size: 16pt;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    padding-bottom: 15px;
+    color: white;
+}
+
+a:hover {
+    border-bottom: 3px solid #fcac45;
+    color: #fcac45;
+}
+
+.about {
+    width: 100%;
+    height: 615px;
+    background-color: white;
+}
+
+.aboutleft {
+
+    width: 45%;
+    margin-left: 5%;
+    padding-top: 93px;
+    float: left;
+
+}
+
+.aboutright {
+
+    float: right;
+    width: 49%;
+    padding-top: 137px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18pt;
+}
+
+.bold {
+    font-weight: bold;
+}
+.italic
+{
+    font-style: italic;
+}
+
+.abouttext1 {
+    font-size: 34pt;
+    border-bottom: 3px solid #fcac45;
+    width: 100%;
+}
+
+.pabout {
+    width: 70%;
+}
+
+.listabout {
+    list-style-image: url("img/1.png");
+}
+.ourteam
+{
+    width: 100%;
+    height: 726px;
+    background-color: #111111;
+
+}
+.ourtext
+{
+    color: white;
+    font-size: 44pt;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.border {
+    border-bottom: 3px solid #fcac45;
+    padding-bottom: 30px;
+}
+.team
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14pt;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.our {
+    width: 17%;
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+}
+.services{
+    background-color: white;
+    width: 100%;
+    height: 736px;
+    color: #111111;
+    font-size: 44pt;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.servtext{
+    font-style: italic;
+    font-size: 16pt;
+    font-weight: normal;
+    padding-top: 100px ;
+    padding-left: 12%;
+    padding-right: 12%;
+
+}
+.ourservices{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14pt;
+    color: black;
+    text-align: center;
+    padding-top: 80px;
+}
+.ourserv {
+    width: 17%;
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+.ofclients
+{
+    width: 100%;
+    height: 520px;
+    background-color: #111111;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.some{
+    font-size: 44pt;
+    text-align: center;
+    padding-top: 100px;
+
+}
+.clientslogo{
+    text-align: center;
+    padding-top: 140px;
+}
+.clients
+{
+    display: inline-block;
+    padding: 2%;
+
+}
+.ourwork
+{
+    width: 100%;
+    height: 1400px;
+    background-color: white;
+    color: #111111;
+}
+.titlework
+{
+    font-size: 44pt;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.worktext{
+    font-style: italic;
+    font-size: 16pt;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 100px ;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.workimg{
+    width: 100%;
+    padding-top: 150px;
+}
+.workline {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-right: 2%;
+}
+div .workline img {
+    padding-right: 30px;
+}
+.ourtest
+{
+    width: 100%;
+    height: 565px;
+    background-color: #111111;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.testtext
+{
+    font-size: 44pt;
+    text-align: center;
+    padding-top: 100px
+}
+.testmaintext{
+    font-size: 18pt;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 100px ;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.testsometext{
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 50px;
+    color: #787878;
+}
+.contact
+{
+    background-color: white;
+    width: 100%;
+    height: 900px;
+    font-family: 'Open Sans', sans-serif;
+}
+.titlecontact{
+    font-size: 44pt;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 100px;
+}
+.contacttext
+{
+    font-style: italic;
+    font-size: 16pt;
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 100px ;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.contactform {
+    display: inline-block;
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 100px;
+    padding: 30px;
+    color: #787878;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16pt;
+    font-weight: lighter;
+}
+.name {
+    display: inline-block;
+    width: 40%;
+    height: 45px;
+    border: 1px solid #787878;
+
+
+
+}
+.email {
+    display: inline-block;
+    width: 40%;
+    height: 45px;
+    margin-left: 8%;
+    border: 1px solid #787878;
+
+}
+.message {
+    width: 90%;
+    height: 160px;
+    margin-top: 30px;
+    border: 1px solid #787878;
+
+}
+.send
+{
+    width: 30%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 60%;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: #fcac45;
+}
+
+footer{
+    background-color: #111111;
+    height: 93px;
+    text-align: center;
+}
+.source
+{
+    padding-top: 30px;
+
+}
+
+
+.home
+{
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 80px;
+    right: 80px;
+
+}
+
+
+}
+div {
+    border: 2px solid red;
+}

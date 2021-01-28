@@ -1,0 +1,21 @@
+td{
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.d{
+    background-color: darkgray;
+}
+
+#tfoot td{
+    background-color: chocolate;
+    color: blanchedalmond;
+}
+
+.form-error {
+    outline: 2px solid #f00;
+}
+
+.error-text {
+    color: #f00;
+}
