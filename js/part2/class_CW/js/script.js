@@ -1,42 +1,44 @@
 window.onload = function () {
-	
-	function clickFn(){
+
+	function clickFn (){
 		console.log("clickFn")
 	}
 	class DOM {
 		constructor(app){
 			this.app = app;
 		}
-		
-		
+
+
 		render (elem) {
 			document.querySelector(this.app).append(elem);
 		}
-		
+
 		static ce(obj){
 			let x = document.createElement(obj.name);
 				x.innerHTML = obj.text;
 				if("event" in obj) {
 					x.addEventListener(obj.event,obj.fn);
 				}
-				
+
 				return x;
 		}
-		
+
 	}
+
+
 	class User extends DOM {
 		constructor(obj){
 			super(obj.render)
 			this.name = obj.name
 			this.age = obj.age
 			this.zp = obj.zp
-			
-		}	
+
+		}
 
 		getInfo(){
 			return `${this.name} \n ${this.age} \n ${this.zp}`
 		}
-		
+
 		set info(obj){
 			this.name=obj.name;
 			this.age=obj.age;
@@ -66,8 +68,8 @@ window.onload = function () {
 		event: "click",
 		fn : clickFn
 	}))
-	
-	
+
+
 
 	class Ts{
 		constructor(size,color,weight,maxSpeed,nowSpeed) {
@@ -140,9 +142,7 @@ let x=new Car(4,1,2,"red",100,200,0)
 			}, 500);
 			this.speedNow();
 		}
-		FreePlace{
-			this.
-	}
+
 	}
 //{wheels:4,ffff:6766,yyy:5}
 	let y=new Plane(4, 3,4,4, "red", 4, 600,0);
@@ -192,7 +192,7 @@ let x=new Car(4,1,2,"red",100,200,0)
 	*     Количество свободных мест () -> Number
 	*
 	* */
-	
 
-	
+
+
 }
